@@ -15,6 +15,7 @@ Open source terminal ecosystem — emulator, TUI framework, and Lisp scripting.
 | Project | Description |
 |---------|-------------|
 | [Portty](https://github.com/chestso/portty) | Modern terminal emulator built on SDL3 with GPU rendering |
+| [Ditty](https://github.com/chestso/ditty) | Interactive Lisp REPL with Flare-powered syntax highlighting |
 | [Mudlark](https://github.com/chestso/mudlark) | MUD/telnet client with Ditty Lisp scripting |
 
 ## Links
