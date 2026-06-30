@@ -8,7 +8,7 @@ Open source terminal ecosystem — emulator, TUI framework, and Lisp scripting.
 |---------|-------------|
 | [Coffer](https://github.com/chestso/coffer) | Virtual terminal engine: VT parser, grid, scrollback, reflow, sixel |
 | [Boba](https://github.com/chestso/boba) | TUI library with Elm Architecture — the Bubbletea of C |
-| [Ditty](https://github.com/chestso/ditty) | Embeddable Lisp interpreter, Flare syntax highlighter, and CLI |
+| [Ditty](https://github.com/chestso/ditty) | Embeddable Lisp interpreter and Flare syntax highlighter |
 
 ## Apps
 
