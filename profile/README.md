@@ -1,8 +1,12 @@
 <h1 align="center">🧰 Chest</h1>
 
 <p align="center">
-  Open source terminal ecosystem<br>
+  <strong>Open source terminal ecosystem</strong><br>
   Emulator · TUI framework · Lisp scripting
+</p>
+
+<p align="center">
+  <a href="https://chest.so">chest.so</a>
 </p>
 
 ---
@@ -30,8 +34,4 @@ TUI library with Elm Architecture — the Bubbletea of C
 
 ---
 
-🌐 [chest.so](https://chest.so)
-
----
-
-_Free software, built in C and Lisp._
+<p align="center"><em>Free software, built in C and Lisp.</em></p>
